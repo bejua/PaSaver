@@ -25,5 +25,4 @@ def export_data_to_txt():
 
     conn.close()
 
-# Uncomment and run the following line to export data to the generated text file
-# export_data_to_txt()
+export_data_to_txt()
