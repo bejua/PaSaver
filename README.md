@@ -1,1 +1,1 @@
-main_hard3.py is the main program
+Simple password saver with python, tkinter and sqlite3
